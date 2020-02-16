@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src_assignment1_gale_shapley"/>
+	<classpathentry kind="src" path="src_assignment2_huffman_coding"/>
+	<classpathentry kind="src" path="src_hw"/>
+	<classpathentry kind="src" path="src_assignment3_dynamic_programming"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
