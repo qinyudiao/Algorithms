@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
+@SuppressWarnings("unused")
 public class Driver3 {
 
     public static int[] cities;

@@ -7,7 +7,8 @@ public class Permutation {
     private int k;
     private boolean allowEmptySpots;
 
-    private long count;
+    @SuppressWarnings("unused")
+	private long count;
     private int[] studentCounts;
     private int[] pairing;
     private boolean done;
